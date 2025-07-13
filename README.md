@@ -33,5 +33,3 @@ python3 main.py
 - 🌓 Modalità chiara/scura (Ctrl+T)
 
 - 🔔 Notifica sonora al termine del download
-
-- 🖱️ Drag & Drop link nella finestra
